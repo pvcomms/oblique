@@ -58,7 +58,7 @@ Going round in circles is staying at the one angle you keep choosing; a card you
 
 **How it relates to the whole.** A sense-making tool you can open and use. It must argue something about perception — otherwise it is a tool and belongs in ~/personal/tools/.
 
-Siblings (instrument, capp): `act`, `alarm`, `bearing`, `botec`, `break`, `canon`, `catalogue`, `chronology`, `course`, `crowd`, `dialogue`, `distribution`, `fence`, `flow`, `half-second`, `margin`, `mask`, `muster`, `nervous-system-sandbox`, `overview`, `panel`, `provenance`, `sieve`, `slice`, `spine`, `stop-flowing`, `suji`, `tack`, `terra-cognita`, `think-forward-reverse`, `toll`, `unison`, `venn`, `way`, `wish`.
+Siblings (instrument, capp): `act`, `alarm`, `attention`, `bearing`, `botec`, `break`, `canon`, `catalogue`, `chronology`, `circuits`, `course`, `crowd`, `dialogue`, `distribution`, `fence`, `flow`, `half-second`, `margin`, `mask`, `muster`, `nervous-system-sandbox`, `normal`, `overview`, `panel`, `provenance`, `real-ideal`, `sieve`, `slice`, `spine`, `stop-flowing`, `suji`, `tack`, `terra-cognita`, `think-forward-reverse`, `toll`, `unison`, `venn`, `way`, `wish`.
 
 The two trees are `~/work/capp/` (the Center) and `~/personal/` (everything else). `~/Code/` is a compatibility symlink farm — never build there.
 
