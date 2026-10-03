@@ -31,5 +31,4 @@ makes no request beyond its own file and fonts.
 
 ## Reporting
 
-Open a private security advisory on the repository, or write to postphenom@proton.me. Say
-what you found and how to reproduce it.
+Open a private report through the repository's Security tab on GitHub, under "Report a vulnerability". Say what you found and how to reproduce it.
