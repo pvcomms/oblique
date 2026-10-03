@@ -1,5 +1,7 @@
 # Oblique
 
+## What it argues
+
 Going round in circles is staying at the one angle you keep choosing. A card
 you did not choose, taken literally, puts you somewhere you would not have
 stood, and what you see from there is yours to say. The instrument picks no card
@@ -27,7 +29,9 @@ Nothing repeats until the pool is out, and then it is shuffled again.
   shuffle now, how many were dealt this sitting, how many notes are kept. These
   are counts, never a verdict on any card.
 
-It opens on the starter deck: fifty-six prompts in the page's own words. The
+It opens on a specimen: one card from a sitting that never happened, and what it
+turned up, labelled fiction and read-only. _Make your own_ starts a sitting of
+yours on the starter deck: fifty-six prompts in the page's own words. The
 form is borrowed from Brian Eno and Peter Schmidt's _Oblique Strategies_
 (1975), and that deck is theirs. If you own it, type or paste the cards you want
 into a deck of your own.
@@ -41,7 +45,13 @@ dealt, which decks are struck, the shuffle's seed) lives in page memory and is
 forgotten on reload. There is no backend, no account, no analytics and no
 third-party request. The two typefaces are served from `fonts/` (OFL).
 
-## Ported from niwa
+## Run
+
+```bash
+open index.html
+```
+
+## Where it came from
 
 This is the `oblique` view of niwa, Param's local garden, made to stand alone.
 What changed:
@@ -63,12 +73,6 @@ What changed:
 The shuffle (Fisher–Yates on mulberry32), the deck rules and the readings are
 ported by hand from niwa's `lib/oblique.ts`, and the drawn borders from
 `lib/hand.ts`.
-
-## Run
-
-```bash
-open index.html
-```
 
 ## Status
 
